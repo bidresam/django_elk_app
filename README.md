@@ -21,7 +21,7 @@ docker build -t overwatch563/django-app-demo:nginx-v1 -f ./Dockerfile.prod .
 docker push overwatch563/django-app-demo:nginx-v1
 ```
 
-Deploy application in Kubernetes
+## Deploy application in Kubernetes
 ```
 cd <Path to project>/django-elk/k8s
 # Deploy elasticsearch pods
@@ -66,7 +66,7 @@ The app has been tested and deployed successfully on a macbook using docker desk
 TobeWorked: Helmdeployment.Current app deployment is via K8s.
 
 ```
-Sample Screenshots of the k8s application :
+## Sample Screenshots of the k8s application :
 
 Main Landing page:
 [![Screenshot-2022-10-05-at-6-12-21-PM.png](https://i.postimg.cc/BnLHv57b/Screenshot-2022-10-05-at-6-12-21-PM.png)](https://postimg.cc/hXnfymBR)
