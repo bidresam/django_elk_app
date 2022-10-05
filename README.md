@@ -10,7 +10,7 @@ Please follow below steps for app installation
 Create app docker image
 ```
 cd <Path to project>\django-elk\django_elk
-docker build -t overwatch563/django-app-demo:v1 --file .\Dockerfile.prod .  
+docker build -t overwatch563/django-app-demo:v1 --file ./Dockerfile.prod .  
 docker push overwatch563/django-app-demo:v1
 ```
 
