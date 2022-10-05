@@ -65,6 +65,18 @@ The app has been tested and deployed successfully on a macbook using docker desk
 TobeWorked: Helmdeployment.
 Current app deployment is via K8s.Good article for my future reference : https://phoenixnap.com/kb/create-helm-chart
 ```
+Sample Screenshots of the k8s application :
 
+Main Landing page:
+[![Screenshot-2022-10-05-at-6-12-21-PM.png](https://i.postimg.cc/BnLHv57b/Screenshot-2022-10-05-at-6-12-21-PM.png)](https://postimg.cc/hXnfymBR)
+
+Health Endpoint URL:
+[![Screenshot-2022-10-05-at-6-16-36-PM.png](https://i.postimg.cc/LXMbD8gk/Screenshot-2022-10-05-at-6-16-36-PM.png)](https://postimg.cc/B8MpQsgt)
+
+Add City Endpoint URL:
+[![Screenshot-2022-10-05-at-6-14-11-PM.png](https://i.postimg.cc/t4jnX06S/Screenshot-2022-10-05-at-6-14-11-PM.png)](https://postimg.cc/Wh51nHXg)
+
+List Cities Endpoint URL:
+[![Screenshot-2022-10-05-at-6-18-36-PM.png](https://i.postimg.cc/pXDYQJYS/Screenshot-2022-10-05-at-6-18-36-PM.png)](https://postimg.cc/VdkCmMh9)
 
 ---
