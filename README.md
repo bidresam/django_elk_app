@@ -76,8 +76,9 @@ Health Endpoint URL:
 
 Add City Endpoint URL:
 [![Screenshot-2022-10-05-at-6-14-11-PM.png](https://i.postimg.cc/t4jnX06S/Screenshot-2022-10-05-at-6-14-11-PM.png)](https://postimg.cc/Wh51nHXg)
+[![Screenshot-2022-10-05-at-6-36-49-PM.png](https://i.postimg.cc/T17PXSrw/Screenshot-2022-10-05-at-6-36-49-PM.png)](https://postimg.cc/SY946g1F)
 
 List Cities Endpoint URL:
-[![Screenshot-2022-10-05-at-6-21-53-PM.png](https://i.postimg.cc/WbRxbS1Y/Screenshot-2022-10-05-at-6-21-53-PM.png)](https://postimg.cc/14HvvG6D)
+[![Screenshot-2022-10-05-at-6-37-54-PM.png](https://i.postimg.cc/43Jjz3DD/Screenshot-2022-10-05-at-6-37-54-PM.png)](https://postimg.cc/MnFswzK5)
 
 ---
