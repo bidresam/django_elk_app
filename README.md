@@ -9,21 +9,21 @@ Please follow below steps for app installation
 ## Create Docker images
 Create app docker image
 ```
-cd <Path to project>\django-elk\django_elk
+cd <Path to project>/django-elk/django_elk
 docker build -t overwatch563/django-app-demo:v1 --file ./Dockerfile.prod .  
 docker push overwatch563/django-app-demo:v1
 ```
 
 Create Nginx docker image
 ```
-cd <Path to project>\django-elk\nginx
+cd <Path to project>/django-elk/nginx
 docker build -t overwatch563/django-app-demo:nginx-v1 -f ./Dockerfile.prod .
 docker push overwatch563/django-app-demo:nginx-v1
 ```
 
 Deploy application in Kubernetes
 ```
-cd <Path to project>\django-elk\k8s
+cd <Path to project>/django-elk/k8s
 # Deploy elasticsearch pods
 kubectl apply -f elastic-deployment.yml
 # Check for pods to start 
