@@ -62,8 +62,8 @@ Reference:
 overwatch563 is my dockerhub username(Sampath's)
 <Path to project> is the absolute filepath where this repo is cloned on your local machine
 The app has been tested and deployed successfully on a macbook using docker desktop version 2.3.0.4 on a minikube whose resources are cpu:4cores,memory:8GB,swap:1GB,diskspace:59.6GB
-TobeWorked: Helmdeployment.
-Current app deployment is via K8s.
+TobeWorked: Helmdeployment.Current app deployment is via K8s.
+
 ```
 Sample Screenshots of the k8s application :
 
