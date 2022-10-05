@@ -63,7 +63,7 @@ overwatch563 is my dockerhub username(Sampath's)
 <Path to project> is the absolute filepath where this repo is cloned on your local machine
 The app has been tested and deployed successfully on a macbook using docker desktop version 2.3.0.4 on a minikube whose resources are cpu:4cores,memory:8GB,swap:1GB,diskspace:59.6GB
 TobeWorked: Helmdeployment.
-Current app deployment is via K8s.Good article for my future reference : https://phoenixnap.com/kb/create-helm-chart
+Current app deployment is via K8s.
 ```
 Sample Screenshots of the k8s application :
 
@@ -77,6 +77,6 @@ Add City Endpoint URL:
 [![Screenshot-2022-10-05-at-6-14-11-PM.png](https://i.postimg.cc/t4jnX06S/Screenshot-2022-10-05-at-6-14-11-PM.png)](https://postimg.cc/Wh51nHXg)
 
 List Cities Endpoint URL:
-[![Screenshot-2022-10-05-at-6-18-36-PM.png](https://i.postimg.cc/pXDYQJYS/Screenshot-2022-10-05-at-6-18-36-PM.png)](https://postimg.cc/VdkCmMh9)
+[![Screenshot-2022-10-05-at-6-21-53-PM.png](https://i.postimg.cc/WbRxbS1Y/Screenshot-2022-10-05-at-6-21-53-PM.png)](https://postimg.cc/14HvvG6D)
 
 ---
