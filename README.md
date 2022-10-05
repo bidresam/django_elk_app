@@ -44,6 +44,7 @@ To try the local setup using docker-compose
 ```
 cd <Path to project>
 docker-compose -f docker-compose.qa.yml up --build -d
+docker-compose -f docker-compose.qa.yml down —> to take down all containers spun up using docker-compose
 
 ```
 
